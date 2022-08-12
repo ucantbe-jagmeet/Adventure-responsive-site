@@ -208,7 +208,7 @@ width: 40%;
 .tours .image-gallery {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
+    width: 93%;
     align-items: center;
 }
 
